@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/swr",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Stale-While-Revalidate data-fetching and synchronization engine for TypeScript and JavaScript.",
   "keywords": [
     "swr",
