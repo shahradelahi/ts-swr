@@ -44,13 +44,13 @@
   },
   "prettier": "@shahrad/prettier-config",
   "devDependencies": {
-    "@shahrad/eslint-config": "^1.0.1",
+    "@shahrad/eslint-config": "^1.1.0",
     "@shahrad/prettier-config": "^1.2.2",
     "@shahrad/tsconfig": "^1.2.0",
     "@types/node": "^25.2.1",
-    "eslint": "^10.0.0",
-    "globals": "^17.3.0",
-    "prettier": "^3.8.1",
+    "eslint": "^10.13.0",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10",
     "tsup": "^8.5.1",
     "typescript": "^5.9.3",
     "vitest": "^4.0.18"
